@@ -27,7 +27,7 @@ Northern Hemisphere - Wind Speed (mph) vs. Latitude,
 and Southern Hemisphere - Wind Speed (mph) vs. Latitude.
 
 After each pair of plots explain what the linear regression is modeling such as any relationships you notice and any other analysis you may have.
-Optional You will be creating multiple linear regression plots. To optimize your code, write a function that creates the linear regression plots.
+Optional: You will be creating multiple linear regression plots. To optimize your code, write a function that creates the linear regression plots.
 Your final notebook must:
 
 Randomly select at least 500 unique (non-repeat) cities based on latitude and longitude.
@@ -53,7 +53,7 @@ Using Google Places API to find the first hotel for each city located within 500
 Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
 As final considerations:
-    Create a new GitHub repository for this project called API-Challenge. Do not add to an existing repo
+    Create a new GitHub repository for this project called API-Challenge. Do not add to an existing repo.
     You must complete your analysis using a Jupyter notebook.
     You must use the Matplotlib or Pandas plotting libraries.
     For Part I, you must include a written description of three observable trends based on the data.
